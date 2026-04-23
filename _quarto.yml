@@ -3,21 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "Aidan Mistry"
+  title: "Aidan's ePortfolio"
+  favicon: favicon/favicon.ico
   navbar:
+    logo: images/aidan_logo.png
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-      - text: About 
-      
+        text: About
+      - href: projects/index.qmd
+        text: Projects
+      - href: reflection.qmd
+        text: Reflection
+      - href: contact.qmd
+        text: Contact
+    right:
+      - href: CV/amistry_cv.pdf
+        text: CV
+        target: _blank
+      - href: https://github.com/AMistry176
+        icon: github
+        target: _blank
+  page-footer:
+    left: "© 2026 Aidan Mistry"
+    right: "Built with [Quarto](https://quarto.org/)"
 
 format:
   html:
     theme:
       - cosmo
-      - brand
-    css: styles.css
+      - styles.scss
     toc: true
 
 

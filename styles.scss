@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+// 1. Import a Google Font
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+// 2. Set variables (colors, fonts)
+$font-family-sans-serif: 'Inter', sans-serif !default;
+$primary: #2C3E50 !default;
+$secondary: #18BC9C !default;
+$navbar-bg: #2C3E50 !default;
+$navbar-fg: #ffffff !default;
+
+
+/*-- scss:rules --*/
+// 3. Custom CSS rules
+h1, h2, h3, h4, h5, h6 {
+  color: $primary;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+/* Add a nice hover effect to links */
+a {
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: $secondary;
+  text-decoration: none;
+}
