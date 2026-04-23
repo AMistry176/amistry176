@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Aidan's ePortfolio"
-  favicon: favicon/favicon.ico
+  favicon: images/favicon.ico
   navbar:
     logo: images/aidan_logo.png
     left:
