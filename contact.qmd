@@ -12,7 +12,9 @@ I am always open to discussing new projects and. Feel free to reach out to me vi
     </a>
   <a href="https://www.linkedin.com/in/aidan-mistry-56832b2a0/" target="_blank" class="btn btn-outline-primary">
     <i class="bi bi-linkedin"></i> LinkedIn
-    
-  
-</div>
-  
+    </a>
+  <a href="https://github.com/AMistry176" target="_blank" class="btn btn-outline-dark">
+    <i class="bi bi-github"></i> GitHub
+  </a>
+
+</div>  
