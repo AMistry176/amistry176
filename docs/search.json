@@ -93,9 +93,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "amistry176",
+    "title": "Aidan Mistry",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a fourth student specializing in data analysis. This site showcases my professional journey, academic projects, and technical skills.\nFeel free to explore some of my college assignments in the Projects tab or view my formal experience in the CV section."
   },
   {
     "objectID": "projects/project_1.html",
@@ -117,5 +117,12 @@
     "title": "Data Visualisation with Python",
     "section": "Interactive Plot",
     "text": "Interactive Plot\nBelow is a Python code chunk that generates an interactive line chart. You can hover over the data points to see the exact values!\n\nimport plotly.express as px\nimport pandas as pd\n\n# Create a sample dataset\ndf = pd.DataFrame({\n    \"Day\": [\"Mon\", \"Tue\", \"Wed\", \"Thu\", \"Fri\"],\n    \"Productivity Level\": [70, 85, 90, 65, 95]\n})\n\n# Generate the interactive plot\nfig = px.line(\n    df, \n    x=\"Day\", \n    y=\"Productivity Level\", \n    title=\"Weekly Productivity Trend\", \n    markers=True\n)\nfig.show()"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-portfolio",
+    "href": "index.html#welcome-to-my-portfolio",
+    "title": "Aidan Mistry",
+    "section": "",
+    "text": "I am a fourth student specializing in data analysis. This site showcases my professional journey, academic projects, and technical skills.\nFeel free to explore some of my college assignments in the Projects tab or view my formal experience in the CV section."
   }
 ]
