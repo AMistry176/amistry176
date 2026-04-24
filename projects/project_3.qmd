@@ -16,7 +16,7 @@ For the New Enterprise Development module myself and a group were tasked with br
 
 ## Project Documents
 
-Below are the three PDF documents outlinig my thesis process. Click the links below to view or download the full documents:
+Below are the four PDF documents outlinig my group's work in New Enterprise Development. Click the links below to view or download the full documents:
 
 * 📄 **[RideAware Concept Paper: Click here to view](data/RideAware Concept Paper.pdf)**
 * 📄 **[RideAware Feasibility Report: Click here to view](data/RideAware Ltd. Feasibility Report PDF.pdf)**
