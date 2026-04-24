@@ -1,3 +1,5 @@
+/*-- scss: defaults --*/
+
 // importing a google font
 // Selected 'Inter' the font is clean and simple
 
@@ -12,7 +14,9 @@ $body-bg: #F8F9FA !default;       // off-white
 $body-color: #333333 !default;    // ark gray 
 $link-color: #18BC9C !default;    // secondary teal 
 
-// 3. custom CSS rules
+/*-- scss: rules --*/
+
+// custom CSS rules
 // These rules add custom styling to the layout and headings.
 
 // Making all headings a bolder and using a primary color
