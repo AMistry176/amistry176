@@ -11,13 +11,23 @@ Here are some of the skills I've been able to develop this year
 * **Tools:** Git, GitHub, VS Code
 
 ## Skills
-In all my years of college I have been able to develop skills in 
-* Research
-* Human Resources
-* Finance
-* Marketing
-* Operations
+In all my years of college I have been able to develop a wide rnge of skills to benefit me in my future career 
+| Category | Profficencies |
+|----------|--------------|
+| **Languages** | Python, HTML/CSS |
+| **Data Analysis** | Pandas, Plotly, Jupyter |
+| **Tools** | Quarto, Git, GitHub, VS Code |
+| **Soft Skills** | Problem Solving, Critical Thinking, Project Management, Communication |
+| **Proffesional Competencies**| Human Resources, Finance, Marketing, Operations |
 
-## Goals
-My primary goal is to return to Brock University and complete the final courses of my degree.
-In the long-term I hope to pursue a career in consulting or operations.
+## My Goals
+### Short-Term Project Goals
+Here is what I am working towards right now:
+- [x] Finish my dgree at Dublin City University
+- [x] Set up my Quarto website and GitHub repository
+- [ ] Return to Canada and work for the summer
+- [ ] In the new academic year complete my degree in Business Administration from Brock University
+
+
+## My Long-term Career Goals
+In the long-term I hope to pursue a career in consulting or operations. I've always found the problems that arise in these business sectors to be very interesting. I'm confident in my ability to think on my feet and critically and I feel both of these business sectors allow for those skills to shine.
