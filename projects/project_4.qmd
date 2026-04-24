@@ -1,0 +1,22 @@
+---
+title: "Business Strategy Final"
+description: "A case study of the acquisition of the company Northvolt by Lyten."
+author: "Aidan Mistry"
+date: "2026-04-24"
+categories: [Research, Business, Academic]
+---
+
+## Assignment Reflection
+
+For the final project in business strategy the case was to analyse the acquisition of the rceently bankrupt Swedish battery manufacturer by Lyten based out of California. The assignment was to analyse Lyten's rapid acquisition fueled international expansion. The paper analysed the scenario through traditional business expanion lenses as well as analysed how Lyten and the topic of energy is becoming more and more important to governments from a national security standpoint.
+
+
+
+
+---
+
+## Project Documents
+
+Below is the PDF document of my paper oultining Lyten and its acquisition. Click the link below to view or download the full document:
+
+* 📄 **[Case Study of Lyten's Acquisition of Northvolt: Click here to view](data/Case Study of Lyten's acquisition of Northvolt.pdf)**
