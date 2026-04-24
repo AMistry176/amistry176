@@ -1,6 +1,6 @@
 ---
 title: "Aidan Mistry"
-image: images/aidan_profile_photo.jpg
+image: images/aidan_profile_photo.jpeg
 about:
   template: trestles 
   links:
