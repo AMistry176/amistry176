@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "amistry176",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -21,13 +28,6 @@
     "text": "Skills\nHere are some of the skills I’ve been able to develop this year * Tech Skills: Python, HTML?CSS, Quarto * Tools: Git, GitHub, VS Code"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "amistry176",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html#skills-1",
     "href": "about.html#skills-1",
     "title": "About Me",
@@ -40,5 +40,12 @@
     "title": "About Me",
     "section": "Goals",
     "text": "Goals\nMy primary goal is to return to Brock University and complete the final courses of my degree. In the long-term I hope to pursue a career in consulting or operations."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Welcome to my project portfolio. Below you will find examples of my work from College using Python, data analysis, and data visualisation. These projects range from product development, thesis writing, economics and data manipulation and sorting.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
   }
 ]
