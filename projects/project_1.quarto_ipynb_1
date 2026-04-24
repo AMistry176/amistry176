@@ -1,0 +1,63 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Data Visualisation with Python\"\n",
+        "description: \"An interactive line chart using Plotly and Pandas.\"\n",
+        "author: \"Aidan Mistry\"\n",
+        "date: \"22/04/2026\"\n",
+        "categories: [Python, Data Analysis, Plotly]\n",
+        "---\n",
+        "\n",
+        "## Introduction\n",
+        "\n",
+        "This project demonstrates my ability to embed Python code directly into a Quarto document, generating interactive data visualisations.\n",
+        "\n",
+        "## Interactive Plot\n",
+        "\n",
+        "Below is a Python code chunk that generates an interactive line chart. You can hover over the data points to see the exact values!"
+      ],
+      "id": "094df86c"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import plotly.express as px\n",
+        "import pandas as pd\n",
+        "\n",
+        "# Create a sample dataset\n",
+        "df = pd.DataFrame({\n",
+        "    \"Day\": [\"Mon\", \"Tue\", \"Wed\", \"Thu\", \"Fri\"],\n",
+        "    \"Productivity Level\": [70, 85, 90, 65, 95]\n",
+        "})\n",
+        "\n",
+        "# Generate the interactive plot\n",
+        "fig = px.line(\n",
+        "    df, \n",
+        "    x=\"Day\", \n",
+        "    y=\"Productivity Level\", \n",
+        "    title=\"Weekly Productivity Trend\", \n",
+        "    markers=True\n",
+        ")\n",
+        "fig.show()"
+      ],
+      "id": "26b85dff",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\Aidan\\AppData\\Local\\Python\\pythoncore-3.14-64\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

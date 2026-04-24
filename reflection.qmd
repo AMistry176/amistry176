@@ -1,3 +1,24 @@
 ---
 title: "Reflection"
 ---
+
+## Overview
+*Brief intro, this project and class*
+
+## Key Learnings
+### 1. Version Control (Git & GitHub)
+* *learning Git, managing repositories, *
+
+### 2. Static Site Generation (Quarto)
+* *learning Quarto and YAML, structure of site.*
+
+### 3. Python & Data Visualisation
+* *embedding active Python code .*
+
+## Challenges & Solutions
+* **Challenge:** *spec technical hurdle *
+* **Solution:** *explain solution .*
+
+## Moving Forward & Application
+* **Critical Self-Assessment:** *Reflect on overall performance -strengths, -improvements *
+* **Beyond the Module:** *skills developed and app to future .*

@@ -7,6 +7,13 @@
     "text": "Welcome to my project portfolio. Below you will find examples of my work from College using Python, data analysis, and data visualisation. These projects range from product development, thesis writing, economics and data manipulation and sorting.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nData Visualisation with Python\n\n\n\nPython\n\nData Analysis\n\nPlotly\n\n\n\nAn interactive line chart using Plotly and Pandas.\n\n\n\nAidan Mistry\n\n\nOct 4, 2027\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I am always open to discussing new projects and. Feel free to reach out to me via email or connect with me on my professional platforms!\n\n\n  Email Me    LinkedIn    GitHub"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -70,10 +77,38 @@
     "text": "Interactive Plot\nBelow is a Python code chunk that generates an interactive line chart. You can hover over the data points to see the exact values!\n\nimport plotly.express as px\nimport pandas as pd\n\n# Create a sample dataset\ndf = pd.DataFrame({\n    \"Day\": [\"Mon\", \"Tue\", \"Wed\", \"Thu\", \"Fri\"],\n    \"Productivity Level\": [70, 85, 90, 65, 95]\n})\n\n# Generate the interactive plot\nfig = px.line(\n    df, \n    x=\"Day\", \n    y=\"Productivity Level\", \n    title=\"Weekly Productivity Trend\", \n    markers=True\n)\nfig.show()"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
     "section": "",
-    "text": "I am always open to discussing new projects and. Feel free to reach out to me via email or connect with me on my professional platforms!\n\n\n  Email Me    LinkedIn    GitHub"
+    "text": "Brief intro, this project and class"
+  },
+  {
+    "objectID": "reflection.html#overview",
+    "href": "reflection.html#overview",
+    "title": "Reflection",
+    "section": "",
+    "text": "Brief intro, this project and class"
+  },
+  {
+    "objectID": "reflection.html#key-learnings",
+    "href": "reflection.html#key-learnings",
+    "title": "Reflection",
+    "section": "Key Learnings",
+    "text": "Key Learnings\n\n1. Version Control (Git & GitHub)\n\nlearning Git, managing repositories, \n\n\n\n2. Static Site Generation (Quarto)\n\nlearning Quarto and YAML, structure of site.\n\n\n\n3. Python & Data Visualisation\n\nembedding active Python code ."
+  },
+  {
+    "objectID": "reflection.html#challenges-solutions",
+    "href": "reflection.html#challenges-solutions",
+    "title": "Reflection",
+    "section": "Challenges & Solutions",
+    "text": "Challenges & Solutions\n\nChallenge: spec technical hurdle \nSolution: explain solution ."
+  },
+  {
+    "objectID": "reflection.html#moving-forward-application",
+    "href": "reflection.html#moving-forward-application",
+    "title": "Reflection",
+    "section": "Moving Forward & Application",
+    "text": "Moving Forward & Application\n\nCritical Self-Assessment: Reflect on overall performance -strengths, -improvements \nBeyond the Module: skills developed and app to future ."
   }
 ]
