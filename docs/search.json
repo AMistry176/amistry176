@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "amistry176",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "My Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my project portfolio. Below you will find examples of my work from College using Python, data analysis, and data visualisation. These projects range from product development, thesis writing, economics and data manipulation and sorting.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nData Visualisation with Python\n\n\n\nPython\n\nData Analysis\n\nPlotly\n\n\n\nAn interactive line chart using Plotly and Pandas.\n\n\n\nAidan Mistry\n\n\nOct 4, 2027\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -42,10 +42,31 @@
     "text": "Goals\nMy primary goal is to return to Brock University and complete the final courses of my degree. In the long-term I hope to pursue a career in consulting or operations."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "My Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "amistry176",
     "section": "",
-    "text": "Welcome to my project portfolio. Below you will find examples of my work from College using Python, data analysis, and data visualisation. These projects range from product development, thesis writing, economics and data manipulation and sorting.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "projects/project_1.html",
+    "href": "projects/project_1.html",
+    "title": "Data Visualisation with Python",
+    "section": "",
+    "text": "This project demonstrates my ability to embed Python code directly into a Quarto document, generating interactive data visualisations."
+  },
+  {
+    "objectID": "projects/project_1.html#introduction",
+    "href": "projects/project_1.html#introduction",
+    "title": "Data Visualisation with Python",
+    "section": "",
+    "text": "This project demonstrates my ability to embed Python code directly into a Quarto document, generating interactive data visualisations."
+  },
+  {
+    "objectID": "projects/project_1.html#interactive-plot",
+    "href": "projects/project_1.html#interactive-plot",
+    "title": "Data Visualisation with Python",
+    "section": "Interactive Plot",
+    "text": "Interactive Plot\nBelow is a Python code chunk that generates an interactive line chart. You can hover over the data points to see the exact values!\n\nimport plotly.express as px\nimport pandas as pd\n\n# Create a sample dataset\ndf = pd.DataFrame({\n    \"Day\": [\"Mon\", \"Tue\", \"Wed\", \"Thu\", \"Fri\"],\n    \"Productivity Level\": [70, 85, 90, 65, 95]\n})\n\n# Generate the interactive plot\nfig = px.line(\n    df, \n    x=\"Day\", \n    y=\"Productivity Level\", \n    title=\"Weekly Productivity Trend\", \n    markers=True\n)\nfig.show()"
   }
 ]

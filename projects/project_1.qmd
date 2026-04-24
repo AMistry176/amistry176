@@ -8,7 +8,7 @@ categories: [Python, Data Analysis, Plotly]
 
 ## Introduction
 
-This project demonstrates my ability to embed executable Python code directly into a Quarto document, generating dynamic and interactive data visualisations.
+This project demonstrates my ability to embed Python code directly into a Quarto document, generating interactive data visualisations.
 
 ## Interactive Plot
 
@@ -33,3 +33,4 @@ fig = px.line(
     markers=True
 )
 fig.show()
+```
