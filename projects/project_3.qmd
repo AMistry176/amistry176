@@ -1,0 +1,24 @@
+---
+title: "New Enterprise Devlopment Project"
+description: "A collection of the multiple papers about our theoretical company RideAware."
+author: "Aidan Mistry"
+date: "2026-04-24"
+categories: [Research, Business, Academic]
+---
+
+## Assignment Reflection
+
+For the New Enterprise Development module myself and a group were tasked with brainstorming and creating a unique product then outlining the process of bringing it to market. The model spanned four core papers, a concept paper, feasibility report, marketing and final business plan. Our took the name RideAware and our product was intelligent heads-ups augmented reality cycling glasses. These glasses would project navigationaal cues directly onto the glasses in a riders field of vision to avoid them breaking forcus from the road to chec directions. The module culminated with a live Dragon's Den style presentation to a group of real investors.
+
+
+
+---
+
+## Project Documents
+
+Below are the three PDF documents outlinig my thesis process. Click the links below to view or download the full documents:
+
+* 📄 **[RideAware Concept Paper: Click here to view](data/RideAware Concept Paper.pdf)**
+* 📄 **[RideAware Feasibility Report: Click here to view](data/RideAware Ltd. Feasibility Report PDF.pdf)**
+* 📄 **[RideAware Marketing Report: Click here to view](data/RideAware Ltd. Marketing Report PDF.pdf)**
+* 📄 **[RideAware Final Business Plan: Click here to view](data/Business Plan PDF.pdf)**
