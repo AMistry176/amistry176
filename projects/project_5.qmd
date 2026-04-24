@@ -18,4 +18,4 @@ For the final project in Advanced Python the task was to compare multiple machin
 
 Below is the PDF document of my paper oultining ML algorithms and ther uses in tumour detection. Click the link below to view or download the full document:
 
-* 📄 **[Research Paper of ML Algorithms to Identify Brain Tumours: Click here to view](data//Research Paper of ML Algorithms to Identify Brain Tumours.pdf)**
+* 📄 **[Research Paper of ML Algorithms to Identify Brain Tumours: Click here to view](data/Research Paper of ML Algorithms to Identify Brain Tumours.pdf)**

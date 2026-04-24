@@ -1,0 +1,20 @@
+---
+title: "Innovation Economics Final"
+description: "A study of the applications and shortcomings of intellecual property rights and their applications in the economy."
+author: "Aidan Mistry"
+date: "2026-04-24"
+categories: [Research, Academic, Data Analysis]
+---
+
+## Assignment Reflection
+
+For the final project in Innovation Economics we were tasked with writing a paper on a selection of four topics. I selected a topic relating to intellectual property (IP) rights and how they inlfuence creator incentives. The paper analysed the issues of free-riding, public vs private good and the terms and durations of IP righs protections.
+
+
+---
+
+## Project Documents
+
+Below is the PDF document of my paper oultining the role of IP rights. Click the link below to view or download the full document:
+
+* 📄 **[The Role of IP Rights in the Economy: Click here to view](data/The Role of IP Rights in the Economy.pdf)**
