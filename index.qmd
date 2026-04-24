@@ -3,6 +3,7 @@ title: "Aidan Mistry"
 image: images/aidan_profile_photo.jpeg
 about:
   template: trestles 
+  image-shape: round
   links:
     - icon: linkedin
       text: LinkedIn
