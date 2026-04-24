@@ -3,31 +3,32 @@ title: "About Me"
 ---
 
 ## Background
-Hello! I am Aidan Mistry, a fourth year student currently studnying at Dublin City University. For my first and secind year of school I studied at Brock University in Ontario Canada. Ranging from my thesis to machine learning algorithms this portfolio is a collection of works I've developed during my time in college. In my free time I enjoy watching theatre, playing soccer, reading and brain puzzles.
+Hello! I am Aidan Mistry, a fourth-year student currently studying at Dublin City University. For my first and second year of school, I studied at Brock University in Ontario, Canada. Ranging from my thesis to machine learning algorithms, this portfolio is a collection of works I've developed during my time in college. In my free time, I enjoy watching theatre, playing soccer, reading, and brain puzzles.
 
-## Skills
-Here are some of the skills I've been able to develop this year
-* **Tech Skills:** Python, HTML?CSS, Quarto
+## Skills & Proficiencies
+Here are some of the skills I've been able to develop this year:
+
+* **Tech Skills:** Python, HTML/CSS, Quarto
 * **Tools:** Git, GitHub, VS Code
 
-## Skills
-In all my years of college I have been able to develop a wide rnge of skills to benefit me in my future career 
-| Category | Profficencies |
+In all my years of college, I have been able to develop a wide range of skills to benefit me in my future career:
+
+| Category | Proficiencies |
 |----------|--------------|
 | **Languages** | Python, HTML/CSS |
 | **Data Analysis** | Pandas, Plotly, Jupyter |
 | **Tools** | Quarto, Git, GitHub, VS Code |
 | **Soft Skills** | Problem Solving, Critical Thinking, Project Management, Communication |
-| **Proffesional Competencies**| Human Resources, Finance, Marketing, Operations |
+| **Professional Competencies**| Human Resources, Finance, Marketing, Operations |
 
 ## My Goals
 ### Short-Term Project Goals
 Here is what I am working towards right now:
-- [x] Finish my dgree at Dublin City University
+
+- [x] Finish my degree at Dublin City University
 - [x] Set up my Quarto website and GitHub repository
 - [ ] Return to Canada and work for the summer
-- [ ] In the new academic year complete my degree in Business Administration from Brock University
-
+- [ ] In the new academic year, complete my degree in Business Administration from Brock University
 
 ## My Long-term Career Goals
-In the long-term I hope to pursue a career in consulting or operations. I've always found the problems that arise in these business sectors to be very interesting. I'm confident in my ability to think on my feet and critically and I feel both of these business sectors allow for those skills to shine.
+In the long-term, I hope to pursue a career in consulting or operations. I've always found the problems that arise in these business sectors to be very interesting. I'm confident in my ability to think on my feet and critically and I feel both of these business sectors allow for those skills to shine.

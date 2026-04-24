@@ -53,42 +53,35 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello! I am Aidan Mistry, a fourth year student currently studnying at Dublin City University. For my first and secind year of school I studied at Brock University in Ontario Canada. Ranging from my thesis to machine learning algorithms this portfolio is a collection of works I’ve developed during my time in college. In my free time I enjoy watching theatre, playing soccer, reading and brain puzzles."
+    "text": "Hello! I am Aidan Mistry, a fourth-year student currently studying at Dublin City University. For my first and second year of school, I studied at Brock University in Ontario, Canada. Ranging from my thesis to machine learning algorithms, this portfolio is a collection of works I’ve developed during my time in college. In my free time, I enjoy watching theatre, playing soccer, reading, and brain puzzles."
   },
   {
     "objectID": "about.html#background",
     "href": "about.html#background",
     "title": "About Me",
     "section": "",
-    "text": "Hello! I am Aidan Mistry, a fourth year student currently studnying at Dublin City University. For my first and secind year of school I studied at Brock University in Ontario Canada. Ranging from my thesis to machine learning algorithms this portfolio is a collection of works I’ve developed during my time in college. In my free time I enjoy watching theatre, playing soccer, reading and brain puzzles."
+    "text": "Hello! I am Aidan Mistry, a fourth-year student currently studying at Dublin City University. For my first and second year of school, I studied at Brock University in Ontario, Canada. Ranging from my thesis to machine learning algorithms, this portfolio is a collection of works I’ve developed during my time in college. In my free time, I enjoy watching theatre, playing soccer, reading, and brain puzzles."
   },
   {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
+    "objectID": "about.html#skills-proficiencies",
+    "href": "about.html#skills-proficiencies",
     "title": "About Me",
-    "section": "Skills",
-    "text": "Skills\nHere are some of the skills I’ve been able to develop this year * Tech Skills: Python, HTML?CSS, Quarto * Tools: Git, GitHub, VS Code"
-  },
-  {
-    "objectID": "about.html#skills-1",
-    "href": "about.html#skills-1",
-    "title": "About Me",
-    "section": "Skills",
-    "text": "Skills\nIn all my years of college I have been able to develop a wide rnge of skills to benefit me in my future career | Category | Profficencies | |———-|————–| | Languages | Python, HTML/CSS | | Data Analysis | Pandas, Plotly, Jupyter | | Tools | Quarto, Git, GitHub, VS Code | | Soft Skills | Problem Solving, Critical Thinking, Project Management, Communication | | Proffesional Competencies| Human Resources, Finance, Marketing, Operations |"
+    "section": "Skills & Proficiencies",
+    "text": "Skills & Proficiencies\nHere are some of the skills I’ve been able to develop this year:\n\nTech Skills: Python, HTML/CSS, Quarto\nTools: Git, GitHub, VS Code\n\nIn all my years of college, I have been able to develop a wide range of skills to benefit me in my future career:\n\n\n\n\n\n\n\nCategory\nProficiencies\n\n\n\n\nLanguages\nPython, HTML/CSS\n\n\nData Analysis\nPandas, Plotly, Jupyter\n\n\nTools\nQuarto, Git, GitHub, VS Code\n\n\nSoft Skills\nProblem Solving, Critical Thinking, Project Management, Communication\n\n\nProfessional Competencies\nHuman Resources, Finance, Marketing, Operations"
   },
   {
     "objectID": "about.html#my-goals",
     "href": "about.html#my-goals",
     "title": "About Me",
     "section": "My Goals",
-    "text": "My Goals\n\nShort-Term Project Goals\nHere is what I am working towards right now: - [x] Finish my dgree at Dublin City University - [x] Set up my Quarto website and GitHub repository - [ ] Return to Canada and work for the summer - [ ] In the new academic year complete my degree in Business Administration from Brock University"
+    "text": "My Goals\n\nShort-Term Project Goals\nHere is what I am working towards right now:\n\nFinish my degree at Dublin City University\nSet up my Quarto website and GitHub repository\nReturn to Canada and work for the summer\nIn the new academic year, complete my degree in Business Administration from Brock University"
   },
   {
     "objectID": "about.html#my-long-term-career-goals",
     "href": "about.html#my-long-term-career-goals",
     "title": "About Me",
     "section": "My Long-term Career Goals",
-    "text": "My Long-term Career Goals\nIn the long-term I hope to pursue a career in consulting or operations. I’ve always found the problems that arise in these business sectors to be very interesting. I’m confident in my ability to think on my feet and critically and I feel both of these business sectors allow for those skills to shine."
+    "text": "My Long-term Career Goals\nIn the long-term, I hope to pursue a career in consulting or operations. I’ve always found the problems that arise in these business sectors to be very interesting. I’m confident in my ability to think on my feet and critically and I feel both of these business sectors allow for those skills to shine."
   },
   {
     "objectID": "index.html",
