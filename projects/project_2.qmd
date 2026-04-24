@@ -1,0 +1,23 @@
+---
+title: "Thesis Writing Collection"
+description: "A collection of my three papers about social media gambling advertisement and its impact on youth."
+author: "Aidan Mistry"
+date: "24/04/2026"
+categories: [Research, Reports, Academic]
+---
+
+## Assignment Reflection
+
+*Replace this text with your actual blurb:* During my time working on this thesis I was able to find and collect data while researching how social media gambling advertismenet affects youth. My findings indicate how gambling marketing media is marketed towards younger demographics who will be the gamblers of tomorrow. Relying on celebrities and influencers, to foster a false sense of trust, as well native advertisng and a constant merging of the ideas of sport and gambling these companies ads and media seek to normalise gambling with a younger more impressionable audience.
+Additional studies show that this younger demographic is more prone to excessive problem gambling and gambling more money than they would be comfotroable losing. 
+
+
+---
+
+## Project Documents
+
+Below are the three PDF documents outlinig my thesis process. Click the links below to view or download the full documents:
+
+* 📄 **[Aidan Mistry Research Proposal: Click here to view](data/Aidan Mistry BAA1010 Final Research.pdf)**
+* 📄 **[Aidan Mistry Literature Review: Click here to view](data/Aidan Mistry BAA1010 Literature Review.pdf)**
+* 📄 **[Aidan Mistry Final Research: Click here to view](data/Aidan Mistry BAA1010 Research Proposal.pdf)**
