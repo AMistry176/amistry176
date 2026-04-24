@@ -1,3 +1,12 @@
 ---
-title: "Contact"
+title: "Contact Me"
 ---
+
+I am always open to discussing new projects and. Feel free to reach out to me via email or connect with me on my professional platforms!
+
+<br>
+
+<div class="d-flex justify-content-center gap-3">
+  <a href="mailto:aidanmistry17@gmail.com" class="btn btn-primary">
+    <i class="bi bi-envelope"></i> Email Me
+  

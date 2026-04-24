@@ -68,5 +68,12 @@
     "title": "Data Visualisation with Python",
     "section": "Interactive Plot",
     "text": "Interactive Plot\nBelow is a Python code chunk that generates an interactive line chart. You can hover over the data points to see the exact values!\n\nimport plotly.express as px\nimport pandas as pd\n\n# Create a sample dataset\ndf = pd.DataFrame({\n    \"Day\": [\"Mon\", \"Tue\", \"Wed\", \"Thu\", \"Fri\"],\n    \"Productivity Level\": [70, 85, 90, 65, 95]\n})\n\n# Generate the interactive plot\nfig = px.line(\n    df, \n    x=\"Day\", \n    y=\"Productivity Level\", \n    title=\"Weekly Productivity Trend\", \n    markers=True\n)\nfig.show()"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "I am always open to discussing new projects and. Feel free to reach out to me via email or connect with me on my professional platforms!\n\n\n  Email Me"
   }
 ]
