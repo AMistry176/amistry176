@@ -1,3 +1,8 @@
 ---
 title: "About Me"
 ---
+
+## Background
+Hello! I am Aidan Mistry, a fourth year student currently studnying at Dublin City University. For my first and secind year of school I studied at Brock University in Ontario Canada. Ranging from my thesis to machine learning algorithms this portfolio is a collection of works I've developed during my time in college. In my free time I enjoy watching theatre, playing soccer, reading and brain puzzles.
+
+## Skills
