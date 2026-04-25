@@ -6,7 +6,7 @@ listing:
   categories: true
   sort-ui: [title, date]
   filter-ui: true
-  fields: [title, categories, description]
+  fields: [date, title, categories, description]
 ---
 
 Welcome to my project portfolio. Below you will find examples of my work from College using Python, data analysis, and data visualisation. These projects range from product development, thesis writing, economics and data manipulation.
