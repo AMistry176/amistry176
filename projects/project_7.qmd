@@ -2,7 +2,7 @@
 title: "A Study of and Recommendation for Revolut"
 description: "A study of the potential shortcomings of the neobank Revolut, as well as presentation of a solution."
 author: "Aidan Mistry"
-date: "2026-04-24"
+date: "2025-14-5"
 categories: [Research, Academic, Data Analysis]
 ---
 

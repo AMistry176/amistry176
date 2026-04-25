@@ -2,7 +2,7 @@
 title: "Advanced Pyhton Final"
 description: "A study of the uses of machine learning algorithms and their uses in brain tumour detection."
 author: "Aidan Mistry"
-date: "2026-04-24"
+date: "2026-04-21"
 categories: [Research, Academic]
 ---
 

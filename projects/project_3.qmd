@@ -2,7 +2,7 @@
 title: "New Enterprise Devlopment Project"
 description: "A collection of the multiple papers about our theoretical company RideAware."
 author: "Aidan Mistry"
-date: "2026-04-24"
+date: "2026-04-17"
 categories: [Research, Business, Academic]
 ---
 

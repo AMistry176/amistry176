@@ -2,7 +2,7 @@
 title: "Thesis Writing Collection"
 description: "A collection of my three papers about social media gambling advertisement and its impact on youth."
 author: "Aidan Mistry"
-date: "2026-04-24"
+date: "2026-04-17"
 categories: [Research, Reports, Academic]
 ---
 
