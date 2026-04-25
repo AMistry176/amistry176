@@ -21,4 +21,4 @@ about:
 
 I am a fourth-year student specialising in data analysis. This site showcases my professional journey, academic projects, and technical skills.
 
-Feel free to explore some of my college assignments in the **[Projects](projects/index.qmd)** tab or view my formal experience in the **[CV](amistry_cv.pdf)** section.
+Feel free to explore some of my college assignments in the **[Projects](projects/index.html)** tab or view my formal experience in the **[CV](CV/amistry_cv.pdf)** section.
