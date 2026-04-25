@@ -3,22 +3,20 @@ title: "Reflection"
 ---
 
 ## Overview
-*Brief intro, this project and class*
+*During this course I was exposed to a variety of softwares and programs that I enjoyed learning about and I hope my intiial knowledge about them will overtime grow into several competencies that I can apply to my future career.*
 
 ## Key Learnings
 ### 1. Version Control (Git & GitHub)
-* *learning Git, managing repositories, *
+* *Learning GitHub has proven to be a very enjoyable experinece. As a website and community GitHub and its shared open source code is a very valuable asset. Additionally its version control function is very helpful for potential mistakes or having evidence of work completed with "proof" logged.*
 
 ### 2. Static Site Generation (Quarto)
-* *learning Quarto and YAML, structure of site.*
+* *Using Quarto to build a website was also a very enjoyable experinece. The personal ePortfolio will hopefully in time continue to be expanded to be a page about myself and my accomplishments that can be used to track for myself but also shown to prospetive employers.*
 
-### 3. Python & Data Visualisation
-* *embedding active Python code .*
 
 ## Challenges & Solutions
-* **Challenge:** *spec technical hurdle *
-* **Solution:** *explain solution .*
+* **Challenge:** *During this course I had multiple technical issues with my laptop and running softwares. Ultimately having to delete and re-redownload multiple softwares.*
+* **Solution:** *The solution to this was quite simply perseverance. Taking the time to work through issues and struggle through issues as they arose was the ony way for me to progress forward.*
 
 ## Moving Forward & Application
-* **Critical Self-Assessment:** *Reflect on overall performance -strengths, -improvements *
-* **Beyond the Module:** *skills developed and app to future .*
+* **Critical Self-Assessment:** *I feel that my overall website came together well. However my issues with my corrupted softwares set ne back and my website was made on a much shorter time schdule than intended. While I feel it meets criteria for layout and technical specs I had essentially felt behind for the whole course as I struggle through tech issues while juggling other academic obligations*
+* **Beyond the Module:** *I hope to continue updating my ePortfolio as my schooling and career continue to progress, potentially turing into something of a personal Linkedin*
