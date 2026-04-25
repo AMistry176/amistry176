@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
@@ -238,6 +238,12 @@ window.Quarto = {
       <option value="listing-title" data-direction="asc">
         Title
       </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
     </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -265,6 +271,11 @@ A Study of and Recommendation for Revolut
 <div class="card-text listing-description delink">
 <p>A study of the potential shortcomings of the neobank Revolut, as well as presentation of a solution.</p>
 </div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Invalid Date
+</div>
+</div>
 </div>
 </div></a>
 </div>
@@ -285,6 +296,11 @@ Advanced Pyhton Final
 <div class="card-text listing-description delink">
 <p>A study of the uses of machine learning algorithms and their uses in brain tumour detection.</p>
 </div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 21, 2026
+</div>
+</div>
 </div>
 </div></a>
 </div>
@@ -304,6 +320,11 @@ Business Strategy Final
 </div>
 <div class="card-text listing-description delink">
 <p>A case study of the acquisition of the company Northvolt by Lyten.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 10, 2026
+</div>
 </div>
 </div>
 </div></a>
@@ -327,6 +348,11 @@ Data Visualisation with Python
 <div class="card-text listing-description delink">
 <p>An interactive line chart using Plotly and Pandas.</p>
 </div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 23, 2026
+</div>
+</div>
 </div>
 </div></a>
 </div>
@@ -348,6 +374,11 @@ Innovation Economics Final
 </div>
 <div class="card-text listing-description delink">
 <p>A study of the applications and shortcomings of intellecual property rights and their applications in the economy.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 10, 2026
+</div>
 </div>
 </div>
 </div></a>
@@ -371,6 +402,11 @@ New Enterprise Devlopment Project
 <div class="card-text listing-description delink">
 <p>A collection of the multiple papers about our theoretical company RideAware.</p>
 </div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 17, 2026
+</div>
+</div>
 </div>
 </div></a>
 </div>
@@ -390,6 +426,11 @@ Thesis Writing Collection
 </div>
 <div class="card-text listing-description delink">
 <p>A collection of my three papers about social media gambling advertisement and its impact on youth.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 17, 2026
+</div>
 </div>
 </div>
 </div></a>

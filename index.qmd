@@ -13,7 +13,7 @@ about:
       href: https://github.com/AMistry176
     - icon: envelope
       text: Email
-      href: mailto:aidanmistry17@gmail.com
+      href: "mailto:aidanmistry17@gmail.com"
 
 ---
 
