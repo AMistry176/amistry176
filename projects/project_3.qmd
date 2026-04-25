@@ -8,7 +8,7 @@ categories: [Research, Business, Academic]
 
 ## Assignment Reflection
 
-For the New Enterprise Development module myself and a group were tasked with brainstorming and creating a unique product then outlining the process of bringing it to market. The model spanned four core papers, a concept paper, feasibility report, marketing and final business plan. Our took the name RideAware and our product was intelligent heads-ups augmented reality cycling glasses. These glasses would project navigationaal cues directly onto the glasses in a riders field of vision to avoid them breaking forcus from the road to chec directions. The module culminated with a live Dragon's Den style presentation to a group of real investors.
+For the New Enterprise Development module myself and a group were tasked with brainstorming and creating a unique product then outlining the process of bringing it to market. The model spanned four core papers, a concept paper, feasibility report, marketing and final business plan. Our team took the name RideAware and our product was intelligent heads-up display cycling glasses. These glasses would project navigational cues directly onto the glasses in a riders field of vision to avoid them breaking focus from the road to check directions. The module culminated with a live Dragon's Den style presentation to a group of real investors.
 
 
 
