@@ -3,7 +3,7 @@ title: "Business Strategy Final"
 description: "A case study of the acquisition of the company Northvolt by Lyten."
 author: "Aidan Mistry"
 date: "2026-04-10"
-categories: [Research, Business, Academic]
+categories: [Business, Academic]
 ---
 
 ## Assignment Reflection
