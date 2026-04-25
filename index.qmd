@@ -19,6 +19,6 @@ about:
 
 ## Welcome to my Portfolio
 
-I am a fourth student specializing in data analysis. This site showcases my professional journey, academic projects, and technical skills.
+I am a fourth-year student specialising in data analysis. This site showcases my professional journey, academic projects, and technical skills.
 
 Feel free to explore some of my college assignments in the **Projects** tab or view my formal experience in the **CV** section.

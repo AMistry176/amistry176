@@ -38,5 +38,5 @@ Here is what I am working towards right now:
 ## My Long-term Career Goals
 
 ::: {.goal-box}
-In the long-term, I hope to pursue a career in [consulting or operations]{.highlight-keyword}. I've always found the problems that arise in these business sectors to be very interesting. I'm confident in my ability to think on my feet and critically, and I feel both of these business sectors allow for those skills to shine.
+In the long-term, I hope to pursue a career in consulting or operations. I've always found the problems that arise in these business sectors to be very interesting. I'm confident in my ability to think on my feet and critically, and I feel both of these business sectors allow for those skills to shine.
 :::
