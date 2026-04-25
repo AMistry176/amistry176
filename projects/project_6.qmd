@@ -8,7 +8,7 @@ categories: [Research, Academic, Data Analysis]
 
 ## Assignment Reflection
 
-For the final project in Innovation Economics we were tasked with writing a paper on a selection of four topics. I selected a topic relating to intellectual property (IP) rights and how they inlfuence creator incentives. The paper analysed the issues of free-riding, public vs private good and the terms and durations of IP righs protections.
+For the final project in Innovation Economics we were tasked with writing a paper on a selection of four topics. I selected a topic relating to intellectual property (IP) rights and how they inlfuence creator incentives. The paper analysed the issues of free-riding, public vs private good and the terms and durations of IP rights protections.
 
 
 ---

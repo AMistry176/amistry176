@@ -8,7 +8,7 @@ categories: [Research, Academic]
 
 ## Assignment Reflection
 
-For the final project in Advanced Python the task was to compare multiple machine learning (ML) algorithms against each other to see how they compare to one another. I selected a dataset outlinig brain tumour data acquired via MRI. The algorithms scanned for who did and did not have a tumour. Utilising confusion matrices and accuracy scores it wass determined which ML algorithm was best suited for a real world medical application as well as potential real world shortcomings.
+For the final project in Advanced Python the task was to compare multiple machine learning (ML) algorithms against each other to see how they compare to one another. I selected a dataset outlining brain tumour data acquired via MRI. The algorithms scanned for who did and did not have a tumour. Utilising confusion matrices and accuracy scores it was determined which ML algorithm was best suited for a real world medical application as well as potential real world shortcomings.
 
 
 
@@ -16,6 +16,6 @@ For the final project in Advanced Python the task was to compare multiple machin
 
 ## Project Documents
 
-Below is the PDF document of my paper oultining ML algorithms and ther uses in tumour detection. Click the link below to view or download the full document:
+Below is the PDF document of my paper oultining ML algorithms and their uses in tumour detection. Click the link below to view or download the full document:
 
 * 📄 **[Research Paper of ML Algorithms to Identify Brain Tumours: Click here to view](data/Research Paper of ML Algorithms to Identify Brain Tumours.pdf)**
